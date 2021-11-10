@@ -1,2 +1,5 @@
 ### Prophet_Forecast
-Home prices trends and forecast using FBProphet
+Home prices trend and forecast using FBProphet
+&nbsp;
+
+Link to **[Notebook](https://github.com/AngeloDSML/Prophet_Forecast/blob/main/Prophet_Forecast_.ipynb)**
